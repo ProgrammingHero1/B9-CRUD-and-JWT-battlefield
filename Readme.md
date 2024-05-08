@@ -1,9 +1,9 @@
 # Private Repo for Assignment-11
-```
-- Client Side Repo=> https://classroom.github.com/a/SAq3TLhx
 
-- Server Side Repo=> https://classroom.github.com/a/pcmuZQIr
-```
+- Client Side Private repo: https://classroom.github.com/a/SAq3TLhx
+
+- Server Side Private Repo: https://classroom.github.com/a/pcmuZQIr
+
 
 ## 🚩: Updates
 #### 📢if we bring any changes or update any of the assignment requirements we will mention them here. Ensure that you check this file twice a day during the assignment. We will mention the variant. 
