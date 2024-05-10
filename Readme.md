@@ -12,7 +12,7 @@
 1: Requirement 0010(ten) => Updates:
     ● Main Requirements 1c. and 
     ● Manage My post Page.
-1: Requirement 0002(two) => Updates:
+2: Requirement 0002(two) => Updates:
     ● Update a word mistake in the website theme.
     ● You have to implement search in all search page. Not in navbar
 
