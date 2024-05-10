@@ -15,8 +15,8 @@
 2: Requirement 0002(two) => Updates:
     ● Update a word mistake in the website theme.
     ● You have to implement search in all search page. Not in navbar
-
-
+3: Requirement 0007(Seven) => Updates:
+    ● Read The main requirement 10 again. Some clarifications are provided.
 ```
 ## What To Submit?
 - Your assignment ID/Variant (The name of the pdf requirement file. Watch video for more)
